@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "wondercrafting:blocks/double_goregrass_top"
+  }
+}

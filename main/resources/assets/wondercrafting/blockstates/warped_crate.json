@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "up=false": { "model": "wondercrafting:block/warped_crate" },
+    "up=true": { "model": "wondercrafting:block/warped_crate_hanging" }
+  }
+}

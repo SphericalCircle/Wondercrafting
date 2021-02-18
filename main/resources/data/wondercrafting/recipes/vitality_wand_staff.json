@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x",
+    "x"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "wondercrafting:vitality_log"
+    }
+  },
+  "result":
+  {
+    "item": "wondercrafting:vitality_wand_staff"
+  }
+}

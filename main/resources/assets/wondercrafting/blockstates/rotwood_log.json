@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y":  { "model": "wondercrafting:block/rotwood_log" },
+    "axis=z":   { "model": "wondercrafting:block/rotwood_log", "x": 90 },
+    "axis=x":   { "model": "wondercrafting:block/rotwood_log", "x": 90, "y": 90 }
+  }
+}

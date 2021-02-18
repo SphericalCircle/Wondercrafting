@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=lower": { "model": "wondercrafting:block/double_goregrass_bottom" },
+    "half=upper": { "model": "wondercrafting:block/double_goregrass_top" }
+  }
+}

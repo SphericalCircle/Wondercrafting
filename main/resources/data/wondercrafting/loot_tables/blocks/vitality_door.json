@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "wondercrafting:vitality_door",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "wondercrafting:vitality_door",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

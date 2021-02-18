@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wondercrafting:items/wonderous_locator"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "blink": 1
+      },
+      "model": "wondercrafting:item/wonderous_locator_active"
+    }
+  ]
+}

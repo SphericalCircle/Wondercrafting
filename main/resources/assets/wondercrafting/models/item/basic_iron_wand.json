@@ -1,0 +1,14 @@
+{
+  "parent": "wondercrafting:item/wand",
+  "textures": {
+    "1": "wondercrafting:items/iron_basic_wand"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "pointing": 1
+      },
+      "model": "wondercrafting:item/basic_iron_wand_point"
+    }
+  ]
+}

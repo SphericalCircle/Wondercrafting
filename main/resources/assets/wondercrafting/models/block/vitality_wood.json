@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "wondercrafting:blocks/vitality_log",
+    "side": "wondercrafting:blocks/vitality_log"
+  }
+}

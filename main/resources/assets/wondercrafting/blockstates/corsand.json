@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "wondercrafting:block/corsand" },
+      { "model": "wondercrafting:block/corsand", "y": 90 },
+      { "model": "wondercrafting:block/corsand", "y": 180 },
+      { "model": "wondercrafting:block/corsand", "y": 270 }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "wondercrafting:corpearl_ore"
+  },
+  "result": "wondercrafting:cor_pearl",
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,22 @@
+{
+  "locator.beep": {
+    "category": "item",
+    "subtitle": "locator.beep",
+    "sounds": [
+      {
+        "name": "wondercrafting:item/locator.beep",
+        "stream": true
+      }
+    ]
+  },
+  "blightweta.hit": {
+    "category": "item",
+    "subtitle": "blightweta.hit",
+    "sounds": [
+      {
+        "name": "wondercrafting:entity/blightweta/blightweta.hit",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#X#",
+        "#X#"
+    ],
+    "key": {
+        "X": {
+            "item": "wondercrafting:vitality_planks"
+        },
+        "#" : {
+            "item" : "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "wondercrafting:vitality_fence_gate",
+        "count": 1
+    }
+}

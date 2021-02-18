@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "wondercrafting:block/vitality_slab" },
+        "type=top": { "model": "wondercrafting:block/vitality_slab_top" },
+        "type=double": { "model": "wondercrafting:block/vitality_planks" }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "wondercrafting:block/cordirt" },
+      { "model": "wondercrafting:block/cordirt", "y": 90 },
+      { "model": "wondercrafting:block/cordirt", "y": 180 },
+      { "model": "wondercrafting:block/cordirt", "y": 270 }
+    ]
+  }
+}

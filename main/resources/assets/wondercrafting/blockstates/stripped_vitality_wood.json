@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y":  { "model": "wondercrafting:block/stripped_vitality_wood" },
+    "axis=z":   { "model": "wondercrafting:block/stripped_vitality_wood", "x": 90 },
+    "axis=x":   { "model": "wondercrafting:block/stripped_vitality_wood", "x": 90, "y": 90 }
+  }
+}

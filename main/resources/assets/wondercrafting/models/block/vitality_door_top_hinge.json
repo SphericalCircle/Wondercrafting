@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "wondercrafting:blocks/vitality_door_bottom",
+    "top": "wondercrafting:blocks/vitality_door_top"
+  }
+}

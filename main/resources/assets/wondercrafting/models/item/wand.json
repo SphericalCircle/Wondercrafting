@@ -1,0 +1,155 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "wondercrafting:items/wand_base",
+		"particle": "wondercrafting:items/wand_base"
+	},
+	"elements": [
+		{
+			"name": "base",
+			"from": [7, 2.5, 7],
+			"to": [9, 18.5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 11, 15]},
+			"faces": {
+				"north": {"uv": [5.25, 1, 6.25, 9], "texture": "#1"},
+				"east": {"uv": [8.25, 1, 9.25, 9], "texture": "#1"},
+				"south": {"uv": [7.25, 1, 8.25, 9], "texture": "#1"},
+				"west": {"uv": [6.25, 1, 7.25, 9], "texture": "#1"},
+				"up": {"uv": [6.25, 0, 7.25, 1], "texture": "#1"},
+				"down": {"uv": [7.25, 0, 8.25, 1], "texture": "#1"}
+			}
+		},
+		{
+			"name": "bottom_cap",
+			"from": [6.75, 0.5, 6.75],
+			"to": [9.25, 2.5, 9.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 9, 15]},
+			"faces": {
+				"north": {"uv": [0, 5.5, 1.25, 6.5], "texture": "#1"},
+				"east": {"uv": [3.75, 5.5, 5, 6.5], "texture": "#1"},
+				"south": {"uv": [2.5, 5.5, 3.75, 6.5], "texture": "#1"},
+				"west": {"uv": [1.25, 5.5, 2.5, 6.5], "texture": "#1"},
+				"up": {"uv": [1.25, 4.25, 2.5, 5.5], "texture": "#1"},
+				"down": {"uv": [2.5, 4.25, 3.75, 5.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "bottom",
+			"from": [7, 0, 7],
+			"to": [9, 0.5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 7, 15]},
+			"faces": {
+				"north": {"uv": [3, 3.75, 4, 4], "texture": "#1"},
+				"east": {"uv": [2, 3.75, 3, 4], "texture": "#1"},
+				"south": {"uv": [1, 3.75, 2, 4], "texture": "#1"},
+				"west": {"uv": [0, 3.75, 1, 4], "texture": "#1"},
+				"up": {"uv": [2, 2.75, 3, 3.75], "texture": "#1"},
+				"down": {"uv": [1, 2.75, 2, 3.75], "texture": "#1"}
+			}
+		},
+		{
+			"name": "upper_cap",
+			"from": [6.75, 18.5, 6.75],
+			"to": [9.25, 20.5, 9.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 24, 15]},
+			"faces": {
+				"north": {"uv": [0, 5.5, 1.25, 6.5], "texture": "#1"},
+				"east": {"uv": [3.75, 5.5, 5, 6.5], "texture": "#1"},
+				"south": {"uv": [2.5, 5.5, 3.75, 6.5], "texture": "#1"},
+				"west": {"uv": [1.25, 5.5, 2.5, 6.5], "texture": "#1"},
+				"up": {"uv": [1.25, 4.25, 2.5, 5.5], "texture": "#1"},
+				"down": {"uv": [2.5, 4.25, 3.75, 5.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [7, 20.5, 7],
+			"to": [9, 21, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 28, 15]},
+			"faces": {
+				"north": {"uv": [1, 3.75, 2, 4], "texture": "#1"},
+				"east": {"uv": [0, 3.75, 1, 4], "texture": "#1"},
+				"south": {"uv": [3, 3.75, 4, 4], "texture": "#1"},
+				"west": {"uv": [2, 3.75, 3, 4], "texture": "#1"},
+				"up": {"uv": [1, 2.75, 2, 3.75], "texture": "#1"},
+				"down": {"uv": [2, 2.75, 3, 3.75], "texture": "#1"}
+			}
+		},
+		{
+			"name": "core",
+			"from": [6.5, 19, 6.5],
+			"to": [9.5, 22, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 38, 8]},
+			"faces": {
+				"north": {"uv": [9.5, 1.5, 11, 3], "texture": "#1"},
+				"east": {"uv": [14, 1.5, 15.5, 3], "texture": "#1"},
+				"south": {"uv": [12.5, 1.5, 14, 3], "texture": "#1"},
+				"west": {"uv": [11, 1.5, 12.5, 3], "texture": "#1"},
+				"up": {"uv": [11, 0, 12.5, 1.5], "texture": "#1"},
+				"down": {"uv": [12.5, 0, 14, 1.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "core_inner",
+			"from": [6.625, 19.125, 6.625],
+			"to": [9.375, 21.875, 9.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 33, 8]},
+			"faces": {
+				"north": {"uv": [10.25, 5, 11.5, 6.25], "texture": "#1"},
+				"east": {"uv": [14, 5, 15.25, 6.25], "texture": "#1"},
+				"south": {"uv": [12.75, 5, 14, 6.25], "texture": "#1"},
+				"west": {"uv": [11.5, 5, 12.75, 6.25], "texture": "#1"},
+				"up": {"uv": [11.5, 3.75, 12.75, 5], "texture": "#1"},
+				"down": {"uv": [12.75, 3.75, 14, 5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, 1.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0, 1.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"translation": [0, 0.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [-35.75, 30.25, 32.5],
+			"translation": [0.5, -1.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [0, 11.5, 0]
+		},
+		"fixed": {
+			"translation": [0, -2.25, -0.75],
+			"scale": [0.9, 0.9, 0.9]
+		}
+	},
+	"groups": [
+		{
+			"name": "Wand",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		}
+	],
+	"overrides": [
+		{
+			"predicate": {
+				"pointing": 1
+			},
+			"model": "wondercrafting:item/wand_point"
+		}
+	]
+}

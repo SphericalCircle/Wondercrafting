@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "wondercrafting:blocks/corgrowth_top",
+    "north": "wondercrafting:blocks/corgrowth",
+    "east": "wondercrafting:blocks/corgrowth",
+    "south": "wondercrafting:blocks/corgrowth",
+    "west": "wondercrafting:blocks/corgrowth",
+    "down": "wondercrafting:blocks/cordirt",
+    "particle": "wondercrafting:blocks/cordirt"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "wondercrafting:block/corgrowth" },
+      { "model": "wondercrafting:block/corgrowth", "y": 90 },
+      { "model": "wondercrafting:block/corgrowth", "y": 180 },
+      { "model": "wondercrafting:block/corgrowth", "y": 270 }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wondercrafting:vitality_planks"
+    }
+  ],
+  "result": {
+    "item": "wondercrafting:vitality_button",
+    "count": 1
+  }
+}

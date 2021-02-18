@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y":  { "model": "wondercrafting:block/vitality_log" },
+    "axis=z":   { "model": "wondercrafting:block/vitality_log", "x": 90 },
+    "axis=x":   { "model": "wondercrafting:block/vitality_log", "x": 90, "y": 90 }
+  }
+}

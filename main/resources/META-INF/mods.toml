@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+
+[[mods]]
+modId="wondercrafting"
+version="1.0"
+displayName="Wondercrafting"
+logoFile="examplemod.png"
+credits="Fart Massiva"
+authors="Ball"
+description='''
+Magic mod
+'''

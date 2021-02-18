@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values":
+  [
+    "wondercrafting:vitality_log",
+    "wondercrafting:stripped_vitality_log",
+    "wondercrafting:vitality_wood",
+    "wondercrafting:stripped_vitality_wood"
+  ]
+}
